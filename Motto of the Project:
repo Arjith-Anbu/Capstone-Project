@@ -1,0 +1,7 @@
+Problem Statement:
+
+The business problem at hand involves enhancing customer service for YourCabs.com, a cab company in Bangalore. Specifically, the issue is the high rate of booking cancellations caused by the unavailability of cars. These cancellations often occur very close to the trip start time, leading to significant inconvenience for passengers.
+
+Solution:
+
+The objective of this competition is to develop a predictive model that can classify new bookings to determine the likelihood of cancellation due to car unavailability. This model aims to help the company mitigate the impact of cancellations and improve overall customer satisfaction.
